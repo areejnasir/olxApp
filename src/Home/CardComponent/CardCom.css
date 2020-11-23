@@ -1,0 +1,96 @@
+.CardCont{
+    width: 100%;
+    height: 230px;
+    /* border: 1px solid gray; */
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 1px 5px 10px lightgray;
+    margin-top: -10px;
+    margin-left: 20px;
+}
+.CardImgCont{
+    width: 70%;
+    height: 120px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: #002f34;
+}
+.CardDataCont{
+    width: 100%;
+    height: 100px;
+    margin-top: 0px;
+    padding-top: 2px;
+}
+.Rs{
+    width: 100%;
+    height: 50px;
+    padding-top: 2px;
+    /* margin-left: 20px; */
+}
+.Dec{
+    width: 100%;
+    height: 20px;
+    padding-top: 2px;
+}
+.CardImg{
+    width: 100%;
+    height: 100px;
+}
+h3{
+    margin-top: 5px;
+    color: #002f34;
+}
+p{
+    margin-left: 30px;
+    margin-top: -6px;
+    color: gray;
+}
+
+.CardPageCont{
+    width: 80%;
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-between;
+}
+.leftSide{
+    width: 60%;
+    height: 80vh;
+
+}
+.rightSide{
+    width: 35%;
+    height: 80vh;
+}
+.CardPageImgCont{
+    width: 100%;
+    height: 40vh;
+    background-color: magenta;
+}
+.CardPageDetailCont{
+    width: 100%;
+    height: 60vh;
+    border: 1px solid lightgray;
+    margin-top: 20px;
+}
+.desCont{
+    width: 100%;
+    height: 30vh;
+    margin-top: -100px;
+}
+.pricePageCont{
+    width: 100%;
+    height: 25vh;
+    border: 1px solid lightgray;
+}
+.user{
+    width: 100%;
+    height: 50px;
+    margin-top: -100px;
+}
+a{
+    text-decoration: none;
+    width: 170px;
+    margin-left: 20px;
+}

@@ -1,0 +1,41 @@
+*{
+    font-family: sans-serif;
+}
+.Car_Cont{
+    margin: 0;
+    padding: 0;
+}
+.Car_Content_Cont{
+    width: 90%;
+    /* height: inherit; */
+    /* background-color: teal; */
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+.Filter_Cont{
+    width: 30%;
+    height: 80vh;
+    /* background-color: tomato; */
+    box-shadow: 1px 0px 15px rgb(165, 161, 161);
+    margin-top: 120px;
+    border-radius: 5px;
+}
+.Filter_Head{
+    width: 100%;
+    height: 150px;
+    border-bottom: 1px solid lightgray;
+}
+.filterH4{
+    width: 80%;
+    height: 50px;
+    font-size: 25px;
+    color: #002f34;
+}
+.filter{
+    width: 80%;
+    height: 40px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #002f34;
+}

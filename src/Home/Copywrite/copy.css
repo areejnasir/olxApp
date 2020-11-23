@@ -1,0 +1,23 @@
+.copy-right{
+    display: flex;
+    justify-content: space-around;
+}
+.copy_right{
+    width: 30%;
+    height: 20px;
+    display: flex;
+    padding-top: 25px;
+}
+.copy_left{
+    width: 30%;
+    height: 20px;
+    display: flex;
+    padding-top: 25px;
+}
+.other_count{
+    color: white;
+    font-weight: bold;
+}
+.countries{
+    color: white;
+}

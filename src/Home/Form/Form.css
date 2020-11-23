@@ -1,0 +1,181 @@
+.para{
+    color: gray;
+}
+
+.form-cont{
+    margin: auto;
+    width: 65%;
+    height: 245vh;
+    border: 1px solid lightgray;
+    margin-top: 80px;
+}
+.form-head-cont{
+    width: 100%;
+    height: 120px;
+    border-bottom: 1px solid lightgray;
+    margin-top: -90px;
+}
+.para-button{
+    display: flex;
+    width: 100%;
+    height: 50px;
+}
+.SelectCategory{
+    text-align: left;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-left: 20px;
+    color: #002f34;
+}
+.para{
+    margin-left: 20px;
+    font-family: sans-serif;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.include-cont{
+    width: 100%;
+    height: 75vh;
+    border-bottom: 1px solid lightgrey;
+    margin-top: -80px;
+}
+
+.SelectOption-cont{
+    width: 40%;
+    height: 50px;
+    margin-left: 20px;
+}
+.SelectOption-cont-content{
+    width: 100%;
+    height: 80px;
+
+}
+.op-cont{
+    width: 100%;
+    height: 50px;
+    margin-top: 10px;
+}
+select{
+    width: 100%;
+    height: 50px;
+}
+.Condi{
+    width: 60px;
+    height: 40px;
+    border: 1px solid grey;
+    margin-right: 10px;
+    background-color: white;
+}
+.Condi:hover{
+    background-color: rgb(167, 218, 238);
+    border: 1px solid rgb(10, 85, 245);   
+}
+label{
+    margin-bottom: 10px;
+}
+.form-input{
+    width: 100%;
+    height: 50px;
+}
+.form-price{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    font-size: 20px;
+}
+.worningPara{
+    width: 100%;
+    height: 20pxs;
+    color:rgb(212, 8, 8);
+    font-size: 11px;
+    margin-top: 5px;
+}
+.Description{
+    width: 100%;
+    height: 50px;
+    margin-top: 50px;
+}
+.form-des{
+    width: 100%;
+    height: 100px;
+    margin-top: 10px;
+
+}
+.price-cont{
+    width: 40%;
+    height: 50px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.form-price-cont{
+    width: 100%;
+    height: 150px;
+    border-bottom: 1px solid lightgrey;
+    margin-top: -90px;
+}
+
+.btn{
+    width: 100px;
+    height: 40px;
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-color: aqua rgb(0, 89, 255) yellow orangered;
+
+}
+.form{
+    padding: 1px;
+}
+.form_img_cont{
+    width: 100%;
+    height: 30vh;
+    border-bottom: 1px solid lightgray;
+    margin-top: -80px;
+}
+.form_content_cont{
+    width: 50%;
+    height: 400px;
+    margin-left: 20px;
+    display: flex;
+    flex-flow: wrap;
+}
+.form_img_cont-card{
+    width: 100px;
+    height: 120px;
+    border: 1px solid gray;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.upload{
+    width: 90px;
+    margin-left: 5px;
+    /* border: none; */
+}
+.uploadimg_cont{
+    width: 100%;
+    height: 80px;
+}
+.uploadImg{
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+.form_location_cont{
+    width: 100%;
+    height: 20vh;
+    border-bottom: 1px solid lightgray;
+    margin-top: -80px;
+}
+.form_UserDetails_cont{
+    width: 100%;
+    height: 45vh;
+    border-bottom: 1px solid lightgrey;
+    margin-top: -80px;
+}
+.userName{
+    width: 100%;
+    height: 50px;
+    margin-top: 5px;
+}
